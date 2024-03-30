@@ -72,3 +72,10 @@ Lo copiamos y lo pegamos aca:
 Todos los plugins los tenes que meter en la carpeta de plugins.
 Recomendacion mia, es que instales el plugin <a href="https://www.spigotmc.org/resources/skinsrestorer.2124/">SkinRestorer</a> que es para ponerle skins a los de tu server (a los premiums y a los no premiums). La podes descargar desde los archivos de este repositorio.
 Y lo metes en la carpeta de plugins!
+
+
+
+
+<h1><img src="https://i.imgur.com/5rNOf7U.png" width="30"> Forge (mods):</h1>
+
+PROXIMAMENTE!
