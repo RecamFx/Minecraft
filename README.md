@@ -58,6 +58,7 @@ Lo unico que hacemos es meter en la carpeta de nuestro server una imagen que sea
 <h2>SERVER.PROPERTIES</h2>
 
 ```ONLINE MODE```: El online mod lo ponemos en **false** si queremos que sea un server para premiums y no premium. Si es solo para premiums ponemos **true**
+Para hacer la imagen podes usar <a href="https://www.photopea.com/">Photopea</a>, desde ahi le das a proyecto nuevo y en altura y anchura pones 64, posterior arrastras la imagen que queres a photophea la agrandas y la guardas!
 
 ```MOTD```: Es la descripcion del server, se puede crear desde <a href="https://mctools.org/motd-creator">aca</a>:
 
