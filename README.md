@@ -36,6 +36,33 @@
 <h2>EJECUCION</h2>
 
 1. Metemos el archivo de instalacion en una carpeta llamada server y le damos doble click:
-<img scr="https://i.imgur.com/nUa554W.png" width="75%">
+<img src="https://i.imgur.com/g0kKH3Z.png" width="75%">
 
-3. Abrimos el archivo llamado ```eula``` y le modificamos el **false** por el **true**
+2. Abrimos el archivo llamado ```eula``` y le modificamos el **false** por el **true**
+<img src="https://i.imgur.com/ym3NT63.png" with="75%">
+
+3. Ahora hacemos denuevo doble click en el archivo spigot.jar
+
+<h2>ENTRAR AL SERVER</h2>
+
+1. Nos metemos en minecraft y agregamos un server con la ip que nos dio hamachi (se la pasamos a nuestros miembros del server tambien)
+2. Entramos y listo!
+
+<h1 align="center">|------------------------------------------------------------------|</h1>
+<h1 align="center">Configuracion del server <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="30"></h1>
+
+<h2>FOTO DEL SERVER</h2>
+
+Lo unico que hacemos es meter en la carpeta de nuestro server una imagen que sea si o si **64px X 64px** (64 pixeles por 64 pixeles) y que sea un archivo png con el nombre: **server-icon.png**
+
+<h2>SERVER.PROPERTIES</h2>
+
+```ONLINE MODE```: El online mod lo ponemos en **false** si queremos que sea un server para premiums y no premium. Si es solo para premiums ponemos **true**
+
+```MOTD```: Es la descripcion del server, se puede crear desde <a href="https://mctools.org/motd-creator">aca</a>:
+
+<img src="https://i.imgur.com/ckhYnqz.png" width="75%">
+
+Lo copiamos y lo pegamos aca:
+
+<img src="https://i.imgur.com/ehw01J0.png" witdh="75%">
