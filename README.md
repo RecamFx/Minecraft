@@ -27,11 +27,11 @@
 
 <h2>INSTALACION</h2>
 
-1 Ir a la <a href="https://getbukkit.org/download/spigot">GETBUKKIT</a> y descargar la version del server que queremos (yo selecciono la ultima version):
+1. Ir a la <a href="https://getbukkit.org/download/spigot">GETBUKKIT</a> y descargar la version del server que queremos (yo selecciono la ultima version):
 
 <img src = "https://i.imgur.com/dMUPAp0.png" width="75%">
 
-2 Click en descargar y click en el nombre de la version:
+2. Click en descargar y click en el nombre de la version:
 
 <img src = "https://i.imgur.com/zavcptF.png" width="75%">
 
