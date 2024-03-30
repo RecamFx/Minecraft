@@ -76,6 +76,6 @@ Y lo metes en la carpeta de plugins!
 
 
 
-<h1><img src="https://i.imgur.com/5rNOf7U.png" width="30"> Forge (mods):</h1>
+<h1><img src="https://i.imgur.com/5rNOf7U.png" width="35"> Forge (mods):</h1>
 
 PROXIMAMENTE!
