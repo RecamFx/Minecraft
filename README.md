@@ -52,7 +52,7 @@
 1. Nos metemos en minecraft y agregamos un server con la ip que nos dio hamachi (se la pasamos a nuestros miembros del server tambien)
 2. Entramos y listo!
 
-
+<h1> </h1>
 <h1 align="center">Configuracion del server <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="30"></h1>
 
 <h2>FOTO DEL SERVER</h2>
