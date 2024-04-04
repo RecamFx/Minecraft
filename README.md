@@ -1,16 +1,11 @@
 <h1 align = "center">Como crear un server de Minecraft! <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="30"></h1>
 <p align = "center">Todos los recursos estan en este repositorio, si queres podes descargarlos por aca o por sus paginas oficiales!</p>
 
-## Indice
-- [Hamachi](#-Hamachi)
-- [Creacion del server](#-Creacion-del-server-(Vanilla,-Spigot-o-Forge))
-
 <h1>🚀 Programas:</h1>
 
 1. JAVA: Instalar <a href="https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.exe">Java 17</a> o alguno mas nuevo desde la <a href="https://www.oracle.com/java/technologies/java-se-glance.html">pagina oficial</a>.
 2. HAMACHI: Descargar la ultima version de <a href="https://vpn.net/">hamachi</a>.
 
-## Hamachi
 <h1><img src="https://i.imgur.com/RfkDJVy.png" width="30"> Configuracion HAMACHI:</h1>
 
 1. Iniciar sesion
@@ -24,13 +19,6 @@
 <img src="https://i.imgur.com/AkFAqcH.png" width="30%">
 
 <h1 align="center"> </h1>
-
-<div align="center">
-   
-   # Creacion del server (Vanilla, Spigot o Forge)
-   
-</div>
-
 <h1 align="center">Creacion del server (Vanilla, Spigot o Forge) <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="30"></h1>
 
 <p align="center">Elegi la version que quieras instalar de tu server y busca abajo cual es para empezar con la instalacion!</p>
