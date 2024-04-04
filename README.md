@@ -3,6 +3,7 @@
 
 ## Indice
 - [Hamachi](#-Hamachi)
+- [Creacion del server](#-Creacion-del-server-(Vanilla,-Spigot-o-Forge)-<img-src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png"-width="30">)
 
 <h1>🚀 Programas:</h1>
 
